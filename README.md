@@ -1,8 +1,8 @@
-# Ghost JavaScript Obfuscator (AES-256-GCM, XOR, Base64, Reverse & js-confuser)
+## Ghost JavaScript Obfuscator (AES-256-GCM, XOR, Base64, Reverse & js-confuser)
 
 This is a JavaScript obfuscator.
 
-# Compatibility (PKG & Electron)
+## Compatibility (PKG & Electron)
 
 - Works with PKG and Electron
 
