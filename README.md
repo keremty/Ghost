@@ -1,4 +1,4 @@
-## Ghost JavaScript Obfuscator 
+# Ghost JavaScript Obfuscator 
 
 This is a JavaScript obfuscator
 
