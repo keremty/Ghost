@@ -1,4 +1,4 @@
-## Ghost JavaScript Obfuscator (AES-256-GCM, XOR, Base64, Reverse & js-confuser)
+## Ghost JavaScript Obfuscator 
 
 This is a JavaScript obfuscator
 
